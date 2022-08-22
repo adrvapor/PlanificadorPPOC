@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/PPOC.Api/.vs/PPOC.Api
+/PPOC.Api/bin/Debug/net6.0
+/PPOC.Api/obj
